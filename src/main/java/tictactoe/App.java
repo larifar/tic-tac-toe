@@ -1,6 +1,5 @@
 package tictactoe;
 
-import tictactoe.models.BoardModel;
 import tictactoe.models.GameModel;
 
 public class App {
